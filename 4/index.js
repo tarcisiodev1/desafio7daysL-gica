@@ -1,4 +1,4 @@
-const numero = Math.floor(Math.random() * (10 - 1 + 1) + 1);
+const numero = Math.floor(Math.random() * (10 - 0 + 1) + 1);
 console.log(numero);
 console.log(numero);
 console.log(numero);
